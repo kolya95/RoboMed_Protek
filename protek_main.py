@@ -127,7 +127,7 @@ top_producers = all_rating()
 print('Ready')
 ###
 
-TOKEN = '570995498:AAGcQZNuBJv8WrEr7Zy0Q3LDDCpoLU3wH9U'
+TOKEN = # add token
 
 MAIN, CHOICE = range(2)
 
