@@ -23,7 +23,7 @@ morfer = pymorphy2.MorphAnalyzer()
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = './voicos-ef9646a397b1.json'
 
-TOKEN = '528649220:AAELfBOWBgv88CvGlIHy_1n8OpuTZh8U9_s'
+TOKEN = # add token
 
 MAIN, CHOICE = range(2)
 
